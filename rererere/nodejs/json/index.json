@@ -1,0 +1,65 @@
+{
+    "user" : "mjy",
+    "job" : "student",
+    "list" : [
+        {
+            "name" : "0",
+            "to":"/sss"
+            
+        },
+        {
+            "name" : "关注",
+            "to":"/home"
+
+        },
+        {
+            "name" : "推荐",
+            "to":"/fuli"
+
+        },
+        {
+            "name" : "视频",
+            "to":"/shipin"
+
+        },
+        {
+            "name" : "图文",
+            "to":"/tu"
+
+        }
+    ],
+    "list2" : [
+        {
+            "name" : "刷新",
+            "to":"/shuaxin",
+            "classname":"iconfont icon-zhangyu"
+        },
+        {
+            "name" : "动态",
+            "to":"/dongtai",
+            "classname":"iconfont icon-tubiaozhizuomoban-"
+
+        },
+        {
+            "name" : "+",
+            "to":"/jia",
+            "classname":"iconfont icon-xiaoxi"
+
+        },
+        {
+            "name" : "消息",
+            "to":"/xiaoxi",
+            "classname":"iconfont icon-xiaoxi"
+
+        },
+        {
+            "name" : "我的",
+            "to":"/wode",
+            "classname":"iconfont icon-wode"
+            
+
+        }
+    ]
+}
+
+
