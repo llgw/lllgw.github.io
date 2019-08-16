@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './8-12/component';
+import App from './llgw/SecondPage/Page';
+import 'antd-mobile/dist/antd-mobile.css'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
